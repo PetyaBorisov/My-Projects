@@ -16,7 +16,7 @@ RUSSIAN:
 2) Напиши на строке в окне: cmd
 3) Нажми Ctrl + Shift + Enter, Enter или OK
 4) Напиши в командной строке
-git clone https://github.com/PetyaBorisov/Creator.git
+git clone https://github.com/PetyaBorisov/My-Projects.git
 5) После выполнения команды введи
-cd Creator
+cd My-Projects
 6) Введи нужную тебе программу
